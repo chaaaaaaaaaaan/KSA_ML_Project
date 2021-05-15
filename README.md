@@ -1,4 +1,4 @@
 # KSA_ML_Project
 
-#Data load from Riot API
+-Data load from Riot API
 
